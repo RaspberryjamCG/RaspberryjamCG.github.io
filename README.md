@@ -1,2 +1,3 @@
 # RaspberryjamCG.github.io
-Jam site
+
+" Covent Garden #cgjam website "
